@@ -1,0 +1,79 @@
+.banner{
+    z-index:0;
+
+}
+
+.banner__bottom{
+    display: flex;
+}
+.banner__bottom__left{
+    flex: 0.8;
+    padding-top: 30px;
+
+}
+.bbl__first{
+    margin-left: 100px;
+    color: #D84027;
+}
+.bbl__second{
+    margin-left: 100px;
+    color: #552318;
+    line-height: 20px;
+}
+.bbl__third{
+    height: 0px;
+    width: 300px;
+
+    border: 1px solid crimson;
+}
+.bbl__fourth{
+    margin-left: 180px;
+    text-align: justify;
+    margin-right: 20px;
+    color: #952318;
+    line-height: 30px;
+}
+.bbl__fivth{
+    margin-left: 180px;
+    color: #DB4527;
+
+}
+.bbl__six{
+    margin-left: 180px;
+    color: #552318;
+
+}
+.banner__bottom__right{
+    margin-top: -120px;
+    z-index: 1;
+}
+.banner__image__text{
+    position: absolute;
+    top:55%;
+    right:10%;
+
+
+}
+.banner__image__text>h1{
+    color: white;
+    font-size: 50px;
+    line-height: 0px;
+
+}
+.banner__image__text__bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.banner__image__text__bottom > p{
+    color: white;
+    font-size: 25px;
+    line-height: 0;
+}
+.bitb__line{
+    height: 0px;
+    width: 300px;
+
+    border: 1px solid white;
+}

@@ -1,0 +1,19 @@
+.footer{
+  
+}
+.footer__left__imagebox{
+    cursor: pointer;
+}
+.footer__left__imagebox>p{
+    color: white;
+}
+
+.footer__left>p{
+    color: white;
+    cursor: pointer;
+}
+
+
+.footer__left>p:hover{
+    color: #DB4527;
+}
